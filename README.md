@@ -8,7 +8,7 @@
 
 <div align='center'>
 	<a href="https://stackoverflow.com/users/3840884" alt="Lukszar's StackOverflow Reputation">
-		<img src="https://img.shields.io/stackexchange/stackoverflow/r/3840884?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" />
+		<img src="https://img.shields.io/stackexchange/stackoverflow/r/3840884?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=864000" />
 	</a>&nbsp;&nbsp;
 	<a href="https://mobilee.pl" alt="https://mobilee.pl">
 		<img src="https://img.shields.io/website?label=mobilee.pl&color=0F8BDA&style=for-the-badge&url=https%3A%2F%2Fmobilee.pl" />
@@ -70,7 +70,9 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts 🇵🇱
+
+> Articles available just in polish language
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
