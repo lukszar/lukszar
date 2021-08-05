@@ -75,6 +75,11 @@
 > Articles available just in polish language
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak dodać niestandardowe wiadomości Push w Synology NAS?](https://macuser.info/jak-dodac-niestandardowe-wiadomosci-push-w-synology-nas/)
+- [Testuj prędkość przesyłu danych w sieci LAN](https://macuser.info/testuj-predkosc-przesylu-danych-w-sieci-lan/)
+- [Formatowanie kodu źródłowego w prezentacji](https://macuser.info/formatowanie-kodu-zrodlowego-w-prezentacji/)
+- [WebP czyli optymalizacja zdjęć](https://macuser.info/webp-czyli-optymalizacja-zdjec/)
+- [10 darmowych aplikacji w macOS dla każdego macusera](https://macuser.info/10-darmowych-aplikacji-w-macos-dla-kazdego-macusera/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://macuser.info)
