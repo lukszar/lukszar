@@ -22,15 +22,15 @@
 ---
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=lukszar&show_icons=true&count_private=true&theme=dark" width="430"/>
 
-- 🏢 Owner and Founder of mobilee
+- 🏢 Owner and Founder of **mobilee**
 
-- 👨🏻‍💻 iOS Developer with 8 years exp
+- 👨🏻‍💻 **iOS Developer** with 8 years exp
 
-- 🎹 Musician
+- 🎹 **Musician**, Pianist
 
 - 👨‍👩‍👦 Husband and Father!
 
-- 🇵🇱 Based in Kraków, Poland
+- 🇵🇱 Based in **Kraków**, Poland
 
 ---
 
