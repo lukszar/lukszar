@@ -75,11 +75,11 @@
 > Articles available just in polish language
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak przeglądnąć wszystkie wydarzenia w kalendarzu?](https://macuser.info/jak-przegladnac-wszystkie-wydarzenia-w-kalendarzu/)
 - [Jak utworzyć własne skróty klawiszowe?](https://macuser.info/jak-utworzyc-wlasne-skroty-klawiszowe/)
 - [Jak dodać niestandardowe wiadomości Push w Synology NAS?](https://macuser.info/jak-dodac-niestandardowe-wiadomosci-push-w-synology-nas/)
 - [Testuj prędkość przesyłu danych w sieci LAN](https://macuser.info/testuj-predkosc-przesylu-danych-w-sieci-lan/)
 - [Formatowanie kodu źródłowego w prezentacji](https://macuser.info/formatowanie-kodu-zrodlowego-w-prezentacji/)
-- [WebP czyli optymalizacja zdjęć](https://macuser.info/webp-czyli-optymalizacja-zdjec/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://macuser.info)
