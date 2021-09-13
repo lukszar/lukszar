@@ -22,7 +22,7 @@
 ---
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=lukszar&show_icons=true&count_private=true&theme=dark" width="430"/>
 
-- 🏢 Owner and Founder of **mobilee**
+- 🏢 Owner and Founder of [**mobilee**](https://github.com/mobilee)
 
 - 👨🏻‍💻 **iOS Developer** with 8 years exp
 
