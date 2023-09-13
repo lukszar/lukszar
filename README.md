@@ -24,7 +24,7 @@
 
 - 🏢 Owner and Founder of [**mobilee**](https://github.com/mobilee)
 
-- 👨🏻‍💻 **iOS Developer** with 9 years exp
+- 👨🏻‍💻 **iOS Developer** with 10 years exp
 
 - 🎹 **Musician**, Pianist
 
