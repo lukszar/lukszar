@@ -110,11 +110,11 @@ interests:
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Wszystko co musisz wiedzieć o kluczach SSH](https://macuser.info/wszystko-co-musisz-wiedziec-o-kluczach-ssh/)
-- [Prosty sposób na atrakcyjną stopkę mailową](https://macuser.info/prosty-sposob-na-atrakcyjna-stopke-mailowa/)
-- [Jak ustawić ekran wejściowy z poziomu kodu w Scene Delegate](https://macuser.info/jak-ustawic-ekran-wejsciowy-z-poziomu-kodu-w-scene-delegate/)
-- [Jak przeglądnąć wszystkie wydarzenia w kalendarzu?](https://macuser.info/jak-przegladnac-wszystkie-wydarzenia-w-kalendarzu/)
-- [Jak utworzyć własne skróty klawiszowe?](https://macuser.info/jak-utworzyc-wlasne-skroty-klawiszowe/)
+- [Synology + SSH: jak ustawić logowanie bez hasła](https://macuser.info/synology-ssh-jak-ustawic-logowanie-bez-hasla/)
+- [Aktywne narożniki — jak wykorzystać Hot Corners w macOS](https://macuser.info/aktywne-narozniki-jak-wykorzystac-hot-corners-w-macos/)
+- [Programowanie w Swift: continue, break i return w pętli for — różnice, które musisz znać](https://macuser.info/programowanie-w-swift-continue-break-i-return-w-petli-for-roznice-ktore-musisz-znac/)
+- [Oferty bankowe Q4 2025](https://macuser.info/oferty-bankowe-q4-2025/)
+- [Ekosystem AI w 2025 roku: Od eksploracji do zastosowań w realnym workflow](https://macuser.info/ekosystem-ai-w-2025-roku-od-eksploracji-do-zastosowan-w-realnym-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
