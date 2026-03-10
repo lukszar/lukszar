@@ -20,7 +20,7 @@
 
 ### Who am I? 
 ---
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=lukszar&show_icons=true&count_private=true&theme=dark" width="430"/>
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=lukszar&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="430"/>
 
 - 🏢 Owner and Founder of [**mobilee**](https://github.com/mobilee)
 
@@ -35,7 +35,7 @@
 ---
 
 
-<img alt="Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukszar&theme=dark" width="330"/>
+<img alt="Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukszar&theme=dark&cache_seconds=86400" width="330"/>
 
 
 ### Connect with me:
