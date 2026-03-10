@@ -1,88 +1,140 @@
-<h1 align='center'>
-	Hi, I'm Łukasz 👋
-</h1>
+<div align="center">
 
+<!-- Animated header with typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FA7343&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Hi%2C+I'm+%C5%81ukasz+%F0%9F%91%8B;" alt="Hi, I'm Łukasz" />
 <p align='center'>
   A mobile iOS developer from Krakow, Poland.
 </p>
 
-<div align='center'>
-	<a href="https://stackoverflow.com/users/3840884" alt="Lukszar's StackOverflow Reputation">
-		<img src="https://img.shields.io/stackexchange/stackoverflow/r/3840884?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" />
-	</a>&nbsp;&nbsp;
-	<a href="https://mobilee.pl" alt="https://mobilee.pl">
-		<img src="https://img.shields.io/website?label=mobilee.pl&color=0F8BDA&style=for-the-badge&url=https%3A%2F%2Fmobilee.pl" />
-	</a>&nbsp;&nbsp;
-	<a href="https://macuser.info" alt="Blog">
-		<img src="https://img.shields.io/website?label=macuser.info&color=FF4C48&style=for-the-badge&url=https%3A%2F%2Fmacuser.info" />
-	</a>&nbsp;&nbsp;
+<!-- Social links - clean icon style -->
+<a href="https://mobilee.pl"><img src="https://img.shields.io/badge/-mobilee.pl-0F8BDA?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+<a href="https://macuser.info"><img src="https://img.shields.io/badge/-blog-FF4C48?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/lukaszszarkowicz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/3840884"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3840884?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stack%20Overflow&color=F58025" /></a>
+
 </div>
 
-### Who am I? 
----
-<img alt="Stats" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lukszar&theme=github_dark" width="430"/>
+<br />
 
-- 🏢 Owner and Founder of [**mobilee**](https://github.com/mobilee)
+<!-- About section with clean cards -->
+<table>
+<tr>
+<td width="65%" valign="top">
 
-- 👨🏻‍💻 **iOS Developer** with 11 years exp
+### About Me
 
-- 🎹 **Musician**, Pianist
+```yaml
+name: Łukasz Szarkowicz
+location: Kraków, Poland 🇵🇱
+role: iOS Developer & mobilee founder
 
-- 👨‍👩‍👦 Husband and Father!
+company:
+  name: mobilee
+  url: https://mobilee.pl
+  
+experience: 13+ years in mobile development
 
-- 🇵🇱 Based in **Kraków**, Poland
+interests:
+  - Building elegant iOS applications
+  - AI revolution
+  - Piano & music composition
 
----
+```
 
+</td>
+<td width="35%" valign="top">
 
-<img alt="Languages" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukszar&theme=github_dark" width="330"/>
+### GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lukszar&theme=github_dark" width="100%" />
 
-### Connect with me:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukszar&theme=github_dark" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- Connect with me -->
+<div align="center">
+
+### 🌐 Connect with me
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
-<br />
 
-### Languages and Tools:
-
-<div align='left'>
-<img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-<img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img alt="Pods" src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-<img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-### Design Tools:
+<br />
 
-<img alt="Sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white" />
+<!-- Tech Stack with modern icons -->
+<div align="center">
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,figma&perline=6&theme=light" height="32" />
 
 <br />
+
+<details>
+<summary><b>More tools I use</b></summary>
+
+<br />
+
+**Architecture:** MVVM · Clean Architecture · Coordinators
+
+**Frameworks:** SwiftUI · UIKit · Combine · Core Data · Realm
+
+**CI/CD:** Fastlane · GitHub Actions · Jenkins
+
+**Design:** Figma · Sketch
+
+</details>
+
+</div>
+
 <br />
 
 ---
 
-### 📕 Latest Blog Posts 🇵🇱
+<div align="center">
 
-> Articles available just in polish language
+### Latest Blog Posts 🇵🇱
+
+*Technical articles in Polish*
+
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [Wszystko co musisz wiedzieć o kluczach SSH](https://macuser.info/wszystko-co-musisz-wiedziec-o-kluczach-ssh/)
 - [Prosty sposób na atrakcyjną stopkę mailową](https://macuser.info/prosty-sposob-na-atrakcyjna-stopke-mailowa/)
-- [Jak ustawić ekran wejściowy z poziomu kodu w Scene Delegate](https://macuser.info/jak-ustawic-ekran-wejsciowy-z-poziomu-kodu-w-scene-delegate/)
-- [Jak przeglądnąć wszystkie wydarzenia w kalendarzu?](https://macuser.info/jak-przegladnac-wszystkie-wydarzenia-w-kalendarzu/)
+- [Jak ustawić ekran wejściowy z poziomu kodu w Scene Delegate](https://macuser.info/jak-ustawic-ekran-wejsciowy-z-poziomu-kodu-w-scene-delegate/)
+- [Jak przeglądnąć wszystkie wydarzenia w kalendarzu?](https://macuser.info/jak-przegladnac-wszystkie-wydarzenia-w-kalendarzu/)
 - [Jak utworzyć własne skróty klawiszowe?](https://macuser.info/jak-utworzyc-wlasne-skroty-klawiszowe/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://macuser.info)
+<div align="center">
+
+[**Read more on macuser.info →**](https://macuser.info)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lukszar&style=flat-square&color=FA7343" alt="Profile views" />
+
+<br />
+<br />
+
+*"Code is poetry written for machines to execute and humans to understand."*
+
+</div>
 
 ---
 
